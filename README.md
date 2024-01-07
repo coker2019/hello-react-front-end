@@ -52,16 +52,13 @@ git@github.com:coker2019/hello-react-front-end.git
 ```
   npx eslint "**/*.{js,jsx}"
 ```
-  npx stylelint "**/*.{css,scss}"
+ 
 
 ```
+ npx stylelint "**/*.{css,scss}"
 ```
 
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 👥 Authors <a name="authors"></a>
+# 👥 Authors <a name="authors"></a>
 
 👤 **Maurice Coker**
 - GitHub: [@coker2019](https://github.com/coker2019)
